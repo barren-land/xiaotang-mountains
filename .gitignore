@@ -1,0 +1,11 @@
+# IntelliJ related
+.idea/
+dist/
+build/
+*.iml
+*.ipr
+*.iws
+.idea
+
+# 默认编译文件
+main
